@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Testbench_Sim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Testbench_Sim" />
+            <top_module name="uart_components" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="2,000.000001 us"></ZoomEndTime>
+      <Cursor1Time time="507.006369 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="157"></NameColumnWidth>
+      <ValueColumnWidth column_width="89"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/Testbench_Sim/reset_pin" type="logic">
+      <obj_property name="ElementShortName">reset_pin</obj_property>
+      <obj_property name="ObjectShortName">reset_pin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/clock_pin" type="logic">
+      <obj_property name="ElementShortName">clock_pin</obj_property>
+      <obj_property name="ObjectShortName">clock_pin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/serialDataIn_pin" type="logic">
+      <obj_property name="ElementShortName">serialDataIn_pin</obj_property>
+      <obj_property name="ObjectShortName">serialDataIn_pin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/serialDataOut_pin" type="logic">
+      <obj_property name="ElementShortName">serialDataOut_pin</obj_property>
+      <obj_property name="ObjectShortName">serialDataOut_pin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/LED_hi_pin" type="logic">
+      <obj_property name="ElementShortName">LED_hi_pin</obj_property>
+      <obj_property name="ObjectShortName">LED_hi_pin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/LED_lo_pin" type="logic">
+      <obj_property name="ElementShortName">LED_lo_pin</obj_property>
+      <obj_property name="ObjectShortName">LED_lo_pin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/DIP_pins" type="array">
+      <obj_property name="ElementShortName">DIP_pins[3:0]</obj_property>
+      <obj_property name="ObjectShortName">DIP_pins[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/RxData" type="array">
+      <obj_property name="ElementShortName">RxData[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RxData[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/RxData2" type="array">
+      <obj_property name="ElementShortName">RxData2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RxData2[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/UUT/parallelDataIn" type="array">
+      <obj_property name="ElementShortName">parallelDataIn[7:0]</obj_property>
+      <obj_property name="ObjectShortName">parallelDataIn[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/UUT/parallelDataOut" type="array">
+      <obj_property name="ElementShortName">parallelDataOut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">parallelDataOut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/Tx_Calc" type="array">
+      <obj_property name="ElementShortName">Tx_Calc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Tx_Calc[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/UUT/make_UART/rcvr/rxState" type="other">
+      <obj_property name="ElementShortName">rxState</obj_property>
+      <obj_property name="ObjectShortName">rxState</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/UUT/make_UART/baudRateEnable_x16" type="logic">
+      <obj_property name="ElementShortName">baudRateEnable_x16</obj_property>
+      <obj_property name="ObjectShortName">baudRateEnable_x16</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench_Sim/UUT/make_UART/baudRateEnable" type="logic">
+      <obj_property name="ElementShortName">baudRateEnable</obj_property>
+      <obj_property name="ObjectShortName">baudRateEnable</obj_property>
+   </wvobject>
+</wave_config>

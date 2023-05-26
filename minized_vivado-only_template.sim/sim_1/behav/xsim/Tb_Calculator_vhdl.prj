@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/uart_components.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/lab_design_top.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/UART.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/UART_baudRateGenerator.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/UART_receiver.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/UART_transmitter.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/calculator.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/character_decoder.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/character_encoder.vhd" \
+"../../../../minized_vivado-only_template.srcs/sources_1/new/debouncer.vhd" \
+"../../../../minized_vivado-only_template.srcs/sim_1/new/Tb_Calculator.vhd" \
+
+# Do not sort compile order
+nosort

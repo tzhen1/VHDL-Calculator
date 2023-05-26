@@ -1,0 +1,17 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2/minized_vivado-only_template.srcs/sim_1/new/Testbench_Sim.vhd,1680603509,vhdl,,,,testbench_sim,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2/minized_vivado-only_template.srcs/sources_1/new/Toplevel_Impl.vhd,1679595753,vhdl,C:/Users/Ray/Documents/Vivado_Projects/assignment_2/minized_vivado-only_template.srcs/sim_1/new/Testbench_Sim.vhd,,,toplevel_impl,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sim_1/new/Tb_Calculator.vhd,1683035636,vhdl,,,,tb_calculator,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/UART.vhd,1683188038,vhdl,,,,uart,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/UART_baudRateGenerator.vhd,1683188038,vhdl,,,,uart_baudrategenerator,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/UART_receiver.vhd,1682978480,vhdl,,,,uart_receiver,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/UART_transmitter.vhd,1682979707,vhdl,,,,uart_transmitter,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/calculator.vhd,1683190492,vhdl,,,,calculator,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/character_decoder.vhd,1683188038,vhdl,,,,character_decoder,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/character_encoder.vhd,1683016756,vhdl,,,,character_encoder,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/debouncer.vhd,1683020162,vhdl,,,,debouncer,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/lab_design_top.vhd,1683190440,vhdl,C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sim_1/new/Tb_Calculator.vhd,,,lab_design_top,,,,,,,,
+C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/uart_components.vhd,1683188038,vhdl,C:/Users/Ray/Documents/Vivado_Projects/assignment_2_TEST/minized_vivado-only_template.srcs/sources_1/new/lab_design_top.vhd,,,uart_components,,,,,,,,

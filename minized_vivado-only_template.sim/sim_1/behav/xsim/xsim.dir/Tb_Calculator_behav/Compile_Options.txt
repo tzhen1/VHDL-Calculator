@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "xilinx_vip" -L "secureip" -L "xpm" --snapshot "Tb_Calculator_behav" "xil_defaultlib.Tb_Calculator" -log "elaborate.log" 
